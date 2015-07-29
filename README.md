@@ -1,0 +1,1 @@
+Small demo of how lambdas work in Java 8
